@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f59PRWqHxsAMOjgJjrVBlggd60+rwpHllKiK7OOowW990bzP7H6JHP/5QVz8d9w7RcqqQwTcgKFJnR035heOLw==",
+  "success": true,
+  "projectFilePath": "E:\\Yandex Disk\\YandexDisk\\prodaction\\GitHub\\AirShooter\\AirShooter\\AirShooter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Леша\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Леша\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
